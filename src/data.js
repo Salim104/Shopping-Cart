@@ -1,6 +1,6 @@
 export default [
   {
-    id: 1,
+    id: 10,
     title: 'Samsung Galaxy S7',
     price: 599.99,
     img:
@@ -8,7 +8,7 @@ export default [
     amount: 1,
   },
   {
-    id: 2,
+    id: 20,
     title: 'google pixel ',
     price: 499.99,
     img:
@@ -16,7 +16,7 @@ export default [
     amount: 1,
   },
   {
-    id: 3,
+    id: 30,
     title: 'Xiaomi Redmi Note 2',
     price: 699.99,
     img:
